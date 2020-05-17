@@ -85,3 +85,5 @@ Go there and create a file ~/.matplotlib/matplotlibrc there and add the followin
 2. After importing matplotlib, simply add: ```matplotlib.use("TkAgg")```
 
 If you run into more problems, feel free to post your questions on [Piazza](https://piazza.com/stanford/winter2018/cs20) or email us cs20-win1718-staff@lists.stanford.edu.
+
+this is great.
